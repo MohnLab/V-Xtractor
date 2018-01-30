@@ -13,6 +13,8 @@ V-Xtractor (http://www.cmde.science.ubc.ca/mohn/software.html) uses Hidden Marko
 Source code available at:
 http://www.cmde.science.ubc.ca/mohn/software.html
 
+Code is also hosted at Martin Hartmann's website:
+http://www.microbiome.ch/software
 
 Version: 2.0
 Purpose: Extraction of variable subregions from SSU rRNA sequences
