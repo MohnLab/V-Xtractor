@@ -44,7 +44,7 @@ V-Xtractor running on HMMER version 2 can be provided on request.
  - Automated tests		make check
  - Automated install		make install
 
-Precompiled binaries are available for some operating systems. Tdshey can be found in the "binaries/" directory after the unpacking the tarball. Installing the package takes nothing more than moving these binaries wherever you want them (e.g. /usr/local/bin).
+Precompiled binaries are available for some operating systems. They can be found in the "binaries/" directory after the unpacking the tarball. Installing the package takes nothing more than moving these binaries wherever you want them (e.g. /usr/local/bin).
 
 
 ## Running V-Xtractor
@@ -59,4 +59,4 @@ Example:perl vxtractor.pl -a -r .V1-V3. -h HMMs/bacteria/ -o out.fasta  in.fasta
  -- this will extract V1 through V3, for bacteria, from the file in.fasta and
     save the results to out.fasta, checking correct order of V1, V2, and V3.
 
-### We have included all the Hidden Markov models for the different regoions in this compressed file https://github.com/carden24/V-Xtractor/blob/master/HMMs.zip
+### We have included all the Hidden Markov models for the different regions in this compressed file https://github.com/carden24/V-Xtractor/blob/master/HMMs.zip
